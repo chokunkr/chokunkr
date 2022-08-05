@@ -1,29 +1,35 @@
-# Hi I'm Chokun, Welcome to my Github profile 👋
+[![ChokunPlayZ](https://github.com/ChokunPlayZ/ChokunPlayZ/raw/main/pictures/profile-readme/banner-1500x500.png)][1]
 
-🙋 สวัสดีครับ ผม Chokun ผมเป็นคนชื่นชอบในการเขียนโปรแกรมครับ
+[![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][5]
+[![youtube](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][4]
 
-🔭 I’m currently working on my youtube channel & courses for teaching people how to develop website.
+Hey 👋🏻,
 
-🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍
+I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
-![Kraiwit Samanpiew](https://images.unsplash.com/photo-1452857297128-d9c29adba80b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+Languages
+PHP, HTML, CSS, JavaScript and JS.
 
-## 💖 Get in touch
-👉 [Personal site](https://chokunspaces.ml/)<br>
-👉 [Facebook](https://www.facebook.com/profile.php?id=100033946872524)<br>
+mostly 3D printing
 
+## 📬 Socials
 
-<!--
-**ohmiler/ohmiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Web: [chokunplayz.com][1]
+- Twitter: [twitter.com/chokuntweets][2]
+- YouTube: [youtube.com/chokunplayz][3]
 
-Here are some ideas to get you started:
+## &#x1f4c8; My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ChokunPlayZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
+</a>
+
+<a href="https://github.com/ChokunPlayZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="230"/>
+</a>
+
+[1]: https://www.chokunplayz.com
+[2]: https://twitter.com/intent/follow?screen_name=chokuntweets
+[3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
+[4]: https://www.youtube.com/chokunplayz
+[5]: https://github.com/ChokunPlayZ/
