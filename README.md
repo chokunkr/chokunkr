@@ -5,6 +5,8 @@ Hey 👋🏻,
 
 I am a Chokun Samanpiew Studen & Dev
 
+🌱 ที่บ้านมันรก เพราะอั๊วชอบลื้อ 😍
+
 Languages
 PHP, HTML, CSS, JavaScript and Py.
 
