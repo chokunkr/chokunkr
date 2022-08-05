@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍
 
-![Kraiwit Samanpiew](https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/284918291_725829955225227_3885987265104741816_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGfd0FjSvODDwE134sEyTJoq0dCOUqnxQarR0I5SqfFBuHA2XJ2ho6iByA7AI-OnKsBDQTYgMmwIhopvEAlGElz&_nc_ohc=CzABzmvH8mQAX_eSxiz&_nc_ht=scontent.fbkk12-1.fna&oh=00_AT8No71TZJQsp9rvMvBXVMc-KKhj9ktR7KVncxL4nJb5Xg&oe=62F29ECA)
+![Kraiwit Samanpiew](https://images.unsplash.com/photo-1452857297128-d9c29adba80b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
 
 ## 💖 Get in touch
 👉 [Personal site](https://chokunspaces.ml/)<br>
-👉 [Facebook](https://www.facebook.com/profile.php?id=100033946872524/)<br>
+👉 [Facebook](https://www.facebook.com/profile.php?id=100033946872524)<br>
 
 
 <!--
